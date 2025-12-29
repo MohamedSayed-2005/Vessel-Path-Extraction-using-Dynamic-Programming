@@ -326,11 +326,11 @@ flake8 vessel_extractor_gui.py
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{sayed2024vessel,
+@article{sayed2025vessel,
   title={Vessel Path Extraction using Dynamic Programming: A Novel Approach with Gradient Fusion and Block Averaging Optimization},
   author={Sayed, Mohamed and Hazem, Mostafa and Hany, Mostafa and Yasser, Abdulrahman and Fareed, Kareem},
   journal={Department of Systems and Biomedical Engineering, Cairo University},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -341,7 +341,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Mohamed Sayed, Mostafa Hazem, Mostafa Hany, 
+Copyright (c) 2025 Mohamed Sayed, Mostafa Hazem, Mostafa Hany, 
                    Abdulrahman Yasser, Kareem Fareed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
