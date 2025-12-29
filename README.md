@@ -384,11 +384,6 @@ For questions, suggestions, or collaboration opportunities:
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/vessel-path-extraction/discussions)
 
 
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/vessel-path-extraction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/vessel-path-extraction?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/vessel-path-extraction?style=social)
-
 ---
 
 **⭐ Star this repository if you find it helpful!**
