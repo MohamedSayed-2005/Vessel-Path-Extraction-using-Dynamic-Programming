@@ -214,8 +214,7 @@ For a 1024×1024 image:
 
 | Original | Extracted Path |
 |----------|----------------|
-| ![WhatsApp Image 2025-12-27 at 2 09 03 PM (1)](https://github.com/user-attachments/assets/cdd077d1-1198-44b4-941a-5a897857440d)
-| ![Result](examples/test1_result.png) |
+| ![WhatsApp Image 2025-12-27 at 2 09 03 PM (1)](https://github.com/user-attachments/assets/cdd077d1-1198-44b4-941a-5a897857440d) | ![Result](examples/test1_result.png) |
 
 **Parameters:** Block size = 2, Penalty = 8.0, Processing time = 15ms
 
