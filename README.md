@@ -162,27 +162,7 @@ result.save('output.png')
 
 ### Main Window Layout
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│           Vessel Path Extraction using DP                   │
-├──────────────┬──────────────────────────────────────────────┤
-│              │                                              │
-│ 📁 File Ops  │          Original Image                     │
-│              │                                              │
-│ ⚙️ Parameters│                                              │
-│  - Block     │                                              │
-│  - Penalty   │  ──────────────────────────────────────     │
-│  - Width     │          Result Image                       │
-│              │                                              │
-│ 🎯 Actions   │                                              │
-│  - Select    │                                              │
-│  - Extract   │                                              │
-│  - Reset     │                                              │
-│              │                                              │
-│ ℹ️ Info Log  │                                              │
-│              │                                              │
-└──────────────┴──────────────────────────────────────────────┘
-```
+<img width="1742" height="981" alt="Screenshot_2025-12-28_222458" src="https://github.com/user-attachments/assets/597b2f64-832f-4be6-8d7e-7f12ddcdc0c8" />
 
 ### Parameter Guide
 
@@ -234,7 +214,8 @@ For a 1024×1024 image:
 
 | Original | Extracted Path |
 |----------|----------------|
-| ![Original](examples/test1_original.png) | ![Result](examples/test1_result.png) |
+| ![WhatsApp Image 2025-12-27 at 2 09 03 PM (1)](https://github.com/user-attachments/assets/cdd077d1-1198-44b4-941a-5a897857440d)
+| ![Result](examples/test1_result.png) |
 
 **Parameters:** Block size = 2, Penalty = 8.0, Processing time = 15ms
 
@@ -359,7 +340,7 @@ SOFTWARE.
 
 **Mostafa Hazem** - [GitHub](https://github.com/mostafahazem) | [Email](mailto:mostafa.hazem@eng.cu.edu.eg)
 
-**Mostafa Hany** - [GitHub](https://github.com/mostahahany)
+**Mostafa Hany** - [GitHub](https://github.com/MH06M) 
 
 **Abdulrahman Yasser** - [GitHub](https://github.com/abdulrahmanyasser)
 
@@ -391,7 +372,7 @@ For questions, suggestions, or collaboration opportunities:
 ---
 
 <p align="center">
-  Made with ❤️ by the Cairo University Biomedical Engineering Team
+  Made with ❤️ by the Cairo University Systems and Biomedical Engineering Team
 </p>
 
 <p align="center">
