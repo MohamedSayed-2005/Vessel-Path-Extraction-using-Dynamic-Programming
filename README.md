@@ -383,32 +383,7 @@ For questions, suggestions, or collaboration opportunities:
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/vessel-path-extraction/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/vessel-path-extraction/discussions)
 
-## 🗺️ Roadmap
 
-### Version 1.0 (Current)
-- ✅ Basic DP algorithm implementation
-- ✅ Block averaging optimization
-- ✅ Interactive GUI
-- ✅ Parameter tuning
-
-### Version 2.0 (Planned)
-- 🔲 Multi-path extraction for vessel networks
-- 🔲 3D volumetric support (CT/MRI)
-- 🔲 GPU acceleration with CUDA
-- 🔲 Automatic parameter selection
-- 🔲 Rotation-invariant processing
-- 🔲 DICOM format support
-- 🔲 Batch processing mode
-- 🔲 Web-based interface
-
-### Version 3.0 (Future)
-- 🔲 Hybrid CNN-DP architecture
-- 🔲 Real-time video processing
-- 🔲 Clinical validation study results
-- 🔲 FDA clearance documentation
-- 🔲 PACS integration
-
-## 📈 Project Statistics
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/vessel-path-extraction?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/vessel-path-extraction?style=social)
@@ -417,10 +392,6 @@ For questions, suggestions, or collaboration opportunities:
 ---
 
 **⭐ Star this repository if you find it helpful!**
-
-**🔔 Watch for updates and new features!**
-
-**🍴 Fork and contribute to make it better!**
 
 ---
 
