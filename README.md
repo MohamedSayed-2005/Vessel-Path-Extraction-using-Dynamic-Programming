@@ -293,17 +293,7 @@ The algorithm examines all possible paths from left to right, considering all va
 **Issue:** Multiple vessels detected incorrectly
 - **Solution:** Use "Select Starting Point" to specify which vessel to trace.
 
-## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-### Ways to Contribute
-
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- 📝 Improve documentation
-- 🧪 Add test cases
-- 🔧 Submit pull requests
 
 ### Development Setup
 
